@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/STPP-397/",
+    "build": "vite build --base=/ReGarden/",
     "preview": "vite preview",
     "build:preview": "vite build && vite preview"
   },

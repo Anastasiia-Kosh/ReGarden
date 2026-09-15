@@ -8,7 +8,7 @@
 
 Сайт знайомить користувачів з ігровим процесом, основними можливостями гри, відгуками та галереєю, а також спрямовує їх на сторінку застосунку в Google Play.
 
-[Переглянути сайт](https://tarasbilyi.github.io/STPP-397/) · [Google Play](https://play.google.com/store/apps/details?id=com.yfactorysoft.GardenMatch.gp&hl=en&gl=us) · [Оригінальний командний репозиторій](https://github.com/TarasBilyi/STPP-397)
+[Переглянути сайт](https://anastasiia-kosh.github.io/ReGarden/) · [Google Play](https://play.google.com/store/apps/details?id=com.yfactorysoft.GardenMatch.gp&hl=en&gl=us) · [Оригінальний командний репозиторій](https://github.com/TarasBilyi/STPP-397)
 
 ## Основні можливості
 
