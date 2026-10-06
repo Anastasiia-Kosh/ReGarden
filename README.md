@@ -74,3 +74,7 @@ npm run dev
 ## Командна розробка
 
 Проєкт виконано в межах комерційної командної співпраці. Повна історія розробки та внесків учасників доступна в [оригінальному репозиторії](https://github.com/TarasBilyi/STPP-397).
+
+## Макет
+
+[Figma](https://www.figma.com/design/9eRVgJTsq2Wfer687n6qWj/STPP-397-%25E2%2580%2594-ReGarden-Match---Match-3-Games?node-id=0-1&p=f&t=IEMxIA7efmji5oUp-0)
